@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>НаучФормат — документ и точное оформление</title>
+  <rect width="256" height="256" rx="56" fill="#163A46"/>
+  <path d="M68 45h83l37 37v129H68z" fill="#F6F4EC"/>
+  <path d="M151 45v37h37" fill="#ADC8C3"/>
+  <path d="M91 106h60M91 128h74M91 150h38" fill="none" stroke="#163A46" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="174" cy="185" r="37" fill="#60D6AB"/>
+  <path d="m155 185 13 13 26-28" fill="none" stroke="#163A46" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

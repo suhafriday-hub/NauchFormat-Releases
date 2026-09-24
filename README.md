@@ -13,6 +13,8 @@ Python, Word и нейросеть для обычной работы не тр�
 · [История версий](CHANGELOG.md)
 · [Сообщить об ошибке](https://github.com/suhafriday-hub/NauchFormat-Releases/issues)
 
+![Интерфейс НаучФормат](assets/interface.png)
+
 ## Как пользоваться
 
 1. Установите приложение и откройте «Материалы».
